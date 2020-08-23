@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\Proyecto Estatica Test CS\Proyecto Estatica Test CS\bin\Debug\netcoreapp3.1\Proyecto Estatica Test CS.exe
+C:\Users\David\source\repos\Proyecto Estatica Test CS\Proyecto Estatica Test CS\bin\Debug\netcoreapp3.1\Proyecto Estatica Test CS.deps.json
+C:\Users\David\source\repos\Proyecto Estatica Test CS\Proyecto Estatica Test CS\bin\Debug\netcoreapp3.1\Proyecto Estatica Test CS.runtimeconfig.json
+C:\Users\David\source\repos\Proyecto Estatica Test CS\Proyecto Estatica Test CS\bin\Debug\netcoreapp3.1\Proyecto Estatica Test CS.runtimeconfig.dev.json
+C:\Users\David\source\repos\Proyecto Estatica Test CS\Proyecto Estatica Test CS\bin\Debug\netcoreapp3.1\Proyecto Estatica Test CS.dll
+C:\Users\David\source\repos\Proyecto Estatica Test CS\Proyecto Estatica Test CS\bin\Debug\netcoreapp3.1\Proyecto Estatica Test CS.pdb
+C:\Users\David\source\repos\Proyecto Estatica Test CS\Proyecto Estatica Test CS\obj\Debug\netcoreapp3.1\Proyecto Estatica Test CS.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Proyecto Estatica Test CS\Proyecto Estatica Test CS\obj\Debug\netcoreapp3.1\Proyecto Estatica Test CS.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\Proyecto Estatica Test CS\Proyecto Estatica Test CS\obj\Debug\netcoreapp3.1\Proyecto Estatica Test CS.AssemblyInfo.cs
+C:\Users\David\source\repos\Proyecto Estatica Test CS\Proyecto Estatica Test CS\obj\Debug\netcoreapp3.1\Proyecto Estatica Test CS.dll
+C:\Users\David\source\repos\Proyecto Estatica Test CS\Proyecto Estatica Test CS\obj\Debug\netcoreapp3.1\Proyecto Estatica Test CS.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VUg4EXPzPh36UO1LG3mEfk8mioifc7WzVoMQ8ZNTZlUoW0UUXeSsetPWO3mkZUiZsilair4bNU7CO3YJGQporA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\David\\source\\repos\\Proyecto Estatica Test CS\\Proyecto Estatica Test CS\\Proyecto Estatica Test CS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
